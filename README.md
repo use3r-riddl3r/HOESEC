@@ -1,6 +1,6 @@
 # HOESEC Python Tool for Red Team OPSEC automation 
 
-A small script i use for convenience, just to be lazy and not run 5/6 diffrent individual commands :))
+A small tool/script i use for convenience, just to be lazy and not run 5/6 diffrent individual commands :))
 
 
 ## Installation
